@@ -1,10 +1,4 @@
 # hello-world
-First repository
-<!DOCTYPE html>
-<body>
-    <div class="head">
-      <h1 colour: red;>Hello welcome to my code</h1>
-  </div>
-  <h2 style="font-family: cursive">Does this work</h2>
-    <p>It doesn't</p>
-</body>
+Oh god remember when I thought HTML was code
+I'm a compsci student who is learning java so
+like any comp sci student I figured I should have a github account
